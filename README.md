@@ -12,17 +12,17 @@
 
 <br>
 
-## 🧭 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Matemática** na **UFMS** (Universidade Federal de Mato Grosso do Sul)
-- 💻 Desenvolvedor **back-end PHP**, com foco em arquitetura orientada a helpers (sem Composer) e SQLite
-- 🏗️ Atualmente construindo o **PTIN Reserve**, um sistema completo de reservas de coworking
-- 🖨️ Nas horas vagas, projeto e imprimo peças em 3D na minha Bambu Lab A1 mini
-- 🐛 Tenho um talento especial pra achar aquele bug que ninguém mais quer pegar
+-  Estudante de **Matemática** na **UFMS** (Universidade Federal de Mato Grosso do Sul)
+-  Desenvolvedor **back-end PHP**, com foco em arquitetura orientada a helpers (sem Composer) e SQLite
+- Atualmente construindo o **PTIN Reserve**, um sistema completo de reservas de coworking
+-  Nas horas vagas, projeto e imprimo peças em 3D na minha Bambu Lab A1 mini
+-  Tenho um talento especial pra achar aquele bug que ninguém mais quer pegar
 
 <br>
 
-## 🚀 Projeto em destaque
+##  Projeto em destaque
 
 ### PTIN Reserve — Sistema de Reservas de Coworking
 
@@ -38,19 +38,18 @@
 Sistema completo de gestão e reserva de espaços de coworking, com controle de disponibilidade por horário, fluxo de aprovação/cancelamento e notificações automáticas por e-mail.
 
 **Principais funcionalidades:**
-- 📅 Disponibilidade dinâmica por dia da semana, com intervalo de almoço configurável e status ativo/inativo por dia
-- 👥 Controle de acesso por papel: `superadmin`, `admin`, `cliente` e `visitante`
-- ✉️ Notificações automáticas por e-mail (confirmação, cancelamento, recusa de solicitação)
-- 🎟️ Gestão de cupons de desconto por ambiente
-- 📊 Exportação de relatórios em CSV/XLS estilizado
-- 📷 Check-in via leitura de QR Code na recepção
-
+-  Disponibilidade dinâmica por dia da semana, com intervalo de almoço configurável e status ativo/inativo por dia
+-  Controle de acesso por papel: `superadmin`, `admin`, `cliente` e `visitante`
+-  Notificações automáticas por e-mail (confirmação, cancelamento, recusa de solicitação)
+-  Gestão de cupons de desconto por ambiente
+-  Exportação de relatórios em CSV/XLS estilizado
+-  Check-in via leitura de QR Code na recepção
 <!-- se quiser, troque a linha abaixo pelo link real do repositório -->
 <!-- 🔗 [Ver repositório](https://github.com/piririporo/ptin-reserve) -->
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -63,7 +62,7 @@ Sistema completo de gestão e reserva de espaços de coworking, com controle de 
 
 <br>
 
-## 🧊 Contribuições em 3D
+##  Contribuições em 3D
 
 <div align="center">
 
@@ -75,7 +74,7 @@ Sistema completo de gestão e reserva de espaços de coworking, com controle de 
 
 <br>
 
-## 🐍 Snake
+##  Snake
 
 <div align="center">
 
@@ -85,7 +84,7 @@ Sistema completo de gestão e reserva de espaços de coworking, com controle de 
 
 <br>
 
-## 📫 Contato
+##  Contato
 
 <div align="center">
 

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img" aria-labelledby="title description">
+  <title id="title">Luiz Gustavo</title>
+  <desc id="description">Capa do perfil de Luiz Gustavo, de Ponta Porã, com traçados geométricos em azul e cobre.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="960" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121c2c"/>
+      <stop offset="1" stop-color="#1e3343"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#a3c5ce" stroke-opacity=".13"/>
+    </pattern>
+    <clipPath id="frame"><rect width="960" height="252" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="252" fill="url(#surface)"/>
+    <path d="M644 0H960V252H516L644 0Z" fill="url(#grid)"/>
+    <path d="M641 0 513 252" stroke="#b7d3d8" stroke-opacity=".16"/>
+    <path d="M42 44H94" stroke="#f5b87d" stroke-width="3"/>
+    <text x="40" y="126" fill="#fff5e9" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="-2">Luiz Gustavo</text>
+    <text x="44" y="172" fill="#c6dbe0" font-family="Verdana, sans-serif" font-size="19" font-weight="700" letter-spacing="2.5">PONTA PORÃ, MS</text>
+    <text x="44" y="211" fill="#f5b87d" font-family="Verdana, sans-serif" font-size="17">@piririporo</text>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M583 191H636L746 80H842L896 26H961" stroke="#abcad0" stroke-opacity=".64" stroke-width="1.5"/>
+      <path d="M560 214H648L758 104H835L909 30" stroke="#abcad0" stroke-opacity=".31" stroke-width="1.5"/>
+      <path d="M610 217H677L759 135H843L883 95H961" stroke="#f5b87d" stroke-width="2.5"/>
+      <path d="M659 251 755 155H852L890 117H961" stroke="#abcad0" stroke-opacity=".64" stroke-width="1.5"/>
+      <path d="M717 251 791 177H868L916 129H961" stroke="#abcad0" stroke-opacity=".34" stroke-width="1.5"/>
+      <path d="M754 251 798 207H883L918 172H961" stroke="#f5b87d" stroke-opacity=".58" stroke-width="1.5"/>
+    </g>
+    <g fill="#1c2e3d" stroke="#a3c5ce" stroke-width="1.5">
+      <circle cx="583" cy="191" r="4.5"/>
+      <circle cx="746" cy="80" r="4.5"/>
+      <circle cx="852" cy="155" r="4.5"/>
+      <circle cx="798" cy="207" r="4.5"/>
+    </g>
+    <g fill="#f5b87d">
+      <circle cx="610" cy="217" r="4"/>
+      <circle cx="759" cy="135" r="5.5"/>
+      <circle cx="883" cy="95" r="4"/>
+    </g>
+  </g>
+</svg>

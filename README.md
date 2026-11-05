@@ -1,20 +1,27 @@
-# Oi, eu sou o Luiz Gustavo 👋
+![Luiz Gustavo, @piririporo, de Ponta Porã, MS](./assets/profile-cover.svg)
 
-**Desenvolvimento web · Interfaces · Sistemas**
+# Desenvolvimento web e tecnologia pública
 
-Gosto de criar aplicações web e experimentar como tipografia, movimento e interações mudam a experiência de usar um site. Também trabalho com a parte que sustenta a interface, como autenticação e banco de dados.
+Sou estagiário de TI na **Prefeitura Municipal de Ponta Porã**, onde trabalho com desenvolvimento web e suporte. Orientei usuários na adoção do novo sistema municipal voltado às diretrizes e ao plano de governo, esclarecendo dúvidas sobre a plataforma.
 
-## Projetos em destaque
+## Projetos na Prefeitura
 
-| Projeto | O que você vai encontrar |
+Desenvolvi estes dois projetos em parceria com outros dois estagiários.
+
+| Projeto | O que você encontra |
 | --- | --- |
-| [Luiz Gusto](https://github.com/piririporo/cardapioFODA) | Site de gastronomia com cardápio digital e animações, feito com HTML, CSS e JavaScript. |
-| [Sistema Luiz Silvero](https://github.com/piririporo/SistemaLuizSilvero) | Sistema desktop em Java para cadastro e consulta de clientes, produtos, ingredientes e vendas, com persistência via Hibernate. |
+| [Portal do PTIn ↗](https://ptin.pontapora.ms.gov.br/) | Site do Parque Tecnológico Internacional, com notícias, eventos e oportunidades. |
+| [Conecta PTIn ↗](https://conectaptin.pontapora.ms.gov.br/index.php) | Plataforma de serviços digitais do Parque, como reservas de espaços e agendamento de visitas. |
+
+## Outros projetos
+
+- **[Luiz Gusto](https://github.com/piririporo/cardapioFODA)** · Site de gastronomia com cardápio digital e animações em HTML, CSS e JavaScript.
+- **[Sistema Luiz Silvero](https://github.com/piririporo/SistemaLuizSilvero)** · Aplicação desktop em Java para cadastro e consulta de clientes, produtos, ingredientes e vendas.
 
 ## Tecnologias que uso
 
-- **Web** · HTML, CSS, JavaScript, TypeScript, React e Next.js
-- **Banco de dados e autenticação** · Supabase e PostgreSQL
-- **Linguagens que também pratico** · Java e Python
+**Web** · HTML, CSS, JavaScript, TypeScript, React e Next.js  
+**Dados e autenticação** · PostgreSQL e Supabase  
+**Outras linguagens** · Java e Python
 
-[Ver todos os meus repositórios públicos ↗](https://github.com/piririporo?tab=repositories)
+[Explorar meus repositórios ↗](https://github.com/piririporo?tab=repositories)

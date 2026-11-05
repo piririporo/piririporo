@@ -1,27 +1,29 @@
-![Luiz Gustavo, @piririporo, de Ponta Porã, MS](./assets/profile-cover.svg)
+# Luiz Gustavo
 
-# Desenvolvimento web e tecnologia pública
+**Desenvolvimento web · Ponta Porã, MS**
 
-Sou estagiário de TI na **Prefeitura Municipal de Ponta Porã**, onde trabalho com desenvolvimento web e suporte. Orientei usuários na adoção do novo sistema municipal voltado às diretrizes e ao plano de governo, esclarecendo dúvidas sobre a plataforma.
+Sou estagiário de TI na **Prefeitura Municipal de Ponta Porã**. Trabalho com desenvolvimento web em equipe e dou suporte a quem usa os sistemas da Prefeitura.
 
 ## Projetos na Prefeitura
 
-Desenvolvi estes dois projetos em parceria com outros dois estagiários.
+Desenvolvi estes dois projetos junto com outros dois estagiários.
 
-| Projeto | O que você encontra |
-| --- | --- |
-| [Portal do PTIn ↗](https://ptin.pontapora.ms.gov.br/) | Site do Parque Tecnológico Internacional, com notícias, eventos e oportunidades. |
-| [Conecta PTIn ↗](https://conectaptin.pontapora.ms.gov.br/index.php) | Plataforma de serviços digitais do Parque, como reservas de espaços e agendamento de visitas. |
+- **Portal do PTIn** · Site do Parque Tecnológico Internacional, com notícias, eventos e oportunidades. [Acessar o portal ↗](https://ptin.pontapora.ms.gov.br/)
+- **Conecta PTIn** · Plataforma de serviços digitais do Parque, como reservas de espaços e agendamento de visitas. [Acessar a plataforma ↗](https://conectaptin.pontapora.ms.gov.br/index.php)
 
-## Outros projetos
-
-- **[Luiz Gusto](https://github.com/piririporo/cardapioFODA)** · Site de gastronomia com cardápio digital e animações em HTML, CSS e JavaScript.
-- **[Sistema Luiz Silvero](https://github.com/piririporo/SistemaLuizSilvero)** · Aplicação desktop em Java para cadastro e consulta de clientes, produtos, ingredientes e vendas.
+Também orientei usuários no uso do novo sistema municipal de diretrizes e plano de governo e esclareci dúvidas sobre a plataforma.
 
 ## Tecnologias que uso
 
-**Web** · HTML, CSS, JavaScript, TypeScript, React e Next.js  
-**Dados e autenticação** · PostgreSQL e Supabase  
-**Outras linguagens** · Java e Python
+![JavaScript](https://img.shields.io/badge/JavaScript-283B4B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-283B4B?style=flat-square&logo=typescript&logoColor=9BC7FF)
+![React](https://img.shields.io/badge/React-283B4B?style=flat-square&logo=react&logoColor=89DBF3)
+![Next.js](https://img.shields.io/badge/Next.js-283B4B?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-283B4B?style=flat-square&logo=supabase&logoColor=7BDCB5)
 
-[Explorar meus repositórios ↗](https://github.com/piririporo?tab=repositories)
+Também uso HTML, CSS e PostgreSQL em projetos web e pratico Java e Python.
+
+## Outros projetos
+
+- **Luiz Gusto** · Site de gastronomia com cardápio digital e animações. [Ver repositório ↗](https://github.com/piririporo/cardapioFODA)
+- **Sistema Luiz Silvero** · Aplicação desktop em Java para cadastro e consulta de clientes, produtos, ingredientes e vendas. [Ver repositório ↗](https://github.com/piririporo/SistemaLuizSilvero)

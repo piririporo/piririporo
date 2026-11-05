@@ -23,7 +23,7 @@ Também orientei usuários no uso do novo sistema municipal de diretrizes e plan
 
 Também uso HTML, CSS e PostgreSQL em projetos web e pratico Java e Python.
 
-## Outros projetos
+# Outros projetos
 
 - **Luiz Gusto** · Site de gastronomia com cardápio digital e animações. [Ver repositório ↗](https://github.com/piririporo/cardapioFODA)
 - **Sistema Luiz Silvero** · Aplicação desktop em Java para cadastro e consulta de clientes, produtos, ingredientes e vendas. [Ver repositório ↗](https://github.com/piririporo/SistemaLuizSilvero)

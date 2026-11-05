@@ -1,21 +1,21 @@
 # Luiz Gustavo
 
-Sou estudante de **Sistemas de Informação** na **Universidade Federal de Mato Grosso do Sul (UFMS)**.
+I’m an **Information Systems** student at the **Federal University of Mato Grosso do Sul (UFMS)**.
 
-## Atualmente
+## Currently
 
-- Estagiário de TI no **N.I.P.E. da Prefeitura Municipal de Ponta Porã**, com atuação em desenvolvimento web em equipe e suporte a usuários.
+- IT intern with **N.I.P.E. at the Ponta Porã municipal government**, where I work on web development projects with my team and provide user support.
 
-Também orientei usuários no uso do novo sistema municipal de diretrizes e plano de governo e esclareci dúvidas sobre a plataforma.
+I also helped users get started with the city’s new platform for municipal guidelines and the government plan, showing them how to use it and answering their questions.
 
-## Projetos na Prefeitura
+## Municipal Projects
 
-Desenvolvi estes dois projetos junto com outros dois estagiários.
+I developed both projects with two other interns.
 
-- **Portal do PTIn** · Site do Parque Tecnológico Internacional, com notícias, eventos e oportunidades. [Acessar o portal ↗](https://ptin.pontapora.ms.gov.br/)
-- **Conecta PTIn** · Plataforma de serviços digitais do Parque, como reservas de espaços e agendamento de visitas. [Acessar a plataforma ↗](https://conectaptin.pontapora.ms.gov.br/index.php)
+- **PTIn Portal** · Website for the International Technology Park, featuring news, events, and opportunities. [Visit the portal ↗](https://ptin.pontapora.ms.gov.br/)
+- **Conecta PTIn** · Digital services platform for the park, including facility bookings and visit scheduling. [Visit the platform ↗](https://conectaptin.pontapora.ms.gov.br/index.php)
 
-## Tecnologias que uso
+## Technologies I Use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-283B4B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-283B4B?style=flat-square&logo=typescript&logoColor=9BC7FF)
@@ -23,4 +23,4 @@ Desenvolvi estes dois projetos junto com outros dois estagiários.
 ![Next.js](https://img.shields.io/badge/Next.js-283B4B?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-283B4B?style=flat-square&logo=supabase&logoColor=7BDCB5)
 
-Também uso HTML, CSS e PostgreSQL em projetos web e pratico Java e Python.
+I also use HTML, CSS, and PostgreSQL in web projects and practice Java and Python.

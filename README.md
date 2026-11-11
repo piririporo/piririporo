@@ -17,7 +17,7 @@ I developed both projects with two other interns.
 
 ## Technologies I Use
 
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![Java](https://img.shields.io/badge/Java-283B4B?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-283B4B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-283B4B?style=flat-square&logo=typescript&logoColor=9BC7FF)
 ![React](https://img.shields.io/badge/React-283B4B?style=flat-square&logo=react&logoColor=89DBF3)
